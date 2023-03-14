@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.073c9b0a.css",
-    "main.js": "/myportfolio/static/js/main.45b744c6.js",
-    "static/js/787.1ed0c42c.chunk.js": "/myportfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/myportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/myportfolio/static/css/main.e14c9c49.css",
+    "main.js": "/myportfolio/static/js/main.3b207ac2.js",
+    "static/media/PretendardVariable.woff2": "/myportfolio/static/media/PretendardVariable.4097c3a83ad9ffa07942.woff2",
+    "static/media/profile.png": "/myportfolio/static/media/profile.bab6808058f0e3d72d65.png",
+    "static/media/Montserrat-Bold.ttf": "/myportfolio/static/media/Montserrat-Bold.68c8d686f4b0d91b92f1.ttf",
+    "static/media/Montserrat-Regular.ttf": "/myportfolio/static/media/Montserrat-Regular.7c8ccfe4b8a1b8ea2327.ttf",
+    "static/media/Outfit-Medium.ttf": "/myportfolio/static/media/Outfit-Medium.fea7d55162ad147275f0.ttf",
     "index.html": "/myportfolio/index.html",
-    "main.073c9b0a.css.map": "/myportfolio/static/css/main.073c9b0a.css.map",
-    "main.45b744c6.js.map": "/myportfolio/static/js/main.45b744c6.js.map",
-    "787.1ed0c42c.chunk.js.map": "/myportfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.e14c9c49.css.map": "/myportfolio/static/css/main.e14c9c49.css.map",
+    "main.3b207ac2.js.map": "/myportfolio/static/js/main.3b207ac2.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.45b744c6.js"
+    "static/css/main.e14c9c49.css",
+    "static/js/main.3b207ac2.js"
   ]
 }
